@@ -1,0 +1,60 @@
+[
+  {
+    "title": "API",
+    "imageSrc": "skills/api.png"
+  },
+  {
+    "title": "Steamlit",
+    "imageSrc": "skills/streamlit.svg"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Material-UI",
+    "imageSrc": "skills/material-ui.svg"
+  },
+  {
+    "title": "postgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.svg"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  }
+
+
+]

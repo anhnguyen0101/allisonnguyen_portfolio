@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Family Travel Tracker",
+    "imageSrc": "projects/familytracker.jpg",
+    "description": "This is a a full-stack web application to track countries visited by family members",
+    "skills": ["React", "Express", "Node","ProtgreSQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Student Management System",
+    "imageSrc": "projects/StudentManagement.jpg",
+    "description": "Command-line application to manage student records for efficient searching ",
+    "skills": ["C++","file I/O", "Binary Search Tree"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Keeper Aapp",
+    "imageSrc": "projects/keeper.jpg",
+    "description": "Developed a responsive note-taking app using React and Material-UI, featuring dynamic note management, interactive form expansion,",
+
+    "skills": ["React", "Material-UI", "JavaScript(SE6+","HTML/CSS","Stat Mangement","Responsive Design"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
